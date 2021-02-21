@@ -36,6 +36,6 @@ advantages/disadvantages are given below.
 SOURCES
 1)	www.covid19india.org
 2)	www.mohfw.gov.in
-3)	dashboard.kerala.gov.in
+3)	www.dashboard.kerala.gov.in
 4)	https://dhs.kerala.gov.in
 
