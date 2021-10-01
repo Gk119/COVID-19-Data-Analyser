@@ -32,8 +32,7 @@ said data in various groups for making comparisons or one at a time, or retrieva
 of the data for specific dates for the cases in national and Kerala state/district 
 level. However, the state/district wise analysis of other states are out of the scope 
 of the project and the necessary data of these can be downloaded from the sites 
-mentioned in sources. The comparison of this project with the existing method, its 
-advantages/disadvantages are given below.
+mentioned in sources.
 
 SOURCES
 1)	www.covid19india.org
